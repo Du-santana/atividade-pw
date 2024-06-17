@@ -1,3 +1,3 @@
 # atividade-pw
 Tarefa - 1° Site Html
-Alunos : Eduardo Santana | Heriston Davi
+Alunos : Eduardo Santana | Heriston Davi | Wamerson de Freitas
